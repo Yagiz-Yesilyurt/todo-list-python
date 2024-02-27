@@ -40,8 +40,6 @@ table_revise ( ): Function used to update the table.
 
 completed_text: Variable used to indicate the completion status of the task.
 
-print_tasks ( ): Function created to write tasks from the tasks list to the tasks.txt file.
-
 mission_write ( ): Function that reads data from the tasks.txt file and adds it to the tasks list.
 
 parse_text_data ( ): Function that parses task data to create a dictionary.
